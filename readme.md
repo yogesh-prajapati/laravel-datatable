@@ -1,6 +1,10 @@
 After clone execute some commands
+    
+    
     // For resolve dependency
-        $ composer install
+        
+        
+    $ composer install
 
     // Copy env file and add some configuration
         $ cp .env.example .env 
